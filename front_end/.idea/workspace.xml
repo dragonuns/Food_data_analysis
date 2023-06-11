@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="917a40a3-1022-43b6-bde3-fd0b1d17e929" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/src/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1b4zf0ODBlMVzg1smDiGmJOiAZA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="ts.external.directory.path" value="D:\WebStorm\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="917a40a3-1022-43b6-bde3-fd0b1d17e929" name="默认更改列表" comment="" />
+      <created>1587906252913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587906252913</updated>
+      <workItem from="1587906258105" duration="57000" />
+      <workItem from="1587906331657" duration="320000" />
+      <workItem from="1587906796441" duration="83000" />
+      <workItem from="1587906896261" duration="12000" />
+      <workItem from="1587906928922" duration="4927000" />
+      <workItem from="1587915649129" duration="1718000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="283" key="FileChooserDialogImpl" timestamp="1587906311804">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="283" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1587906311804" />
+    <state width="1899" height="285" key="GridCell.Tab.0.bottom" timestamp="1587915064743">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587915064743" />
+    <state width="1899" height="285" key="GridCell.Tab.0.center" timestamp="1587915064743">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587915064743" />
+    <state width="1899" height="285" key="GridCell.Tab.0.left" timestamp="1587915064743">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587915064743" />
+    <state width="1899" height="285" key="GridCell.Tab.0.right" timestamp="1587915064743">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587915064743" />
+    <state x="486" y="220" key="SettingsEditor" timestamp="1587913259724">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="486" y="220" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1587913259724" />
+  </component>
+</project>
